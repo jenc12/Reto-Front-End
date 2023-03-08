@@ -25,5 +25,7 @@ Cuando termine el proceso anterior se abrira el proyecto en una ventana del nave
 
 Eso seria todo.
 
+Un agradecimiento a: cmayorga@bgeneral.com, lcarvajal@bgeneral.com; jllinares@bgeneral.com; jugarcia@bgeneral.com
+
 Gracias!
 
